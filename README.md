@@ -12,3 +12,6 @@
 - [x] ⭐️
 - [x] ⭐️⭐️
 
+### Day 3: [Lobby](https://adventofcode.com/2025/day/3)
+- [x] ⭐️
+- [x] ⭐️⭐️
