@@ -4,14 +4,19 @@
 
 ## Progress
 
-### Day 1: [Secret Entrance](https://adventofcode.com/2025/day/1)
+### Day 1: [Secret Entrance](https://adventofcode.com/2025/day/1) ![runtime](https://img.shields.io/badge/time-44ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
 
-### Day 2: [Gift Shop](https://adventofcode.com/2025/day/2)
+
+### Day 2: [Gift Shop](https://adventofcode.com/2025/day/2) ![runtime](https://img.shields.io/badge/time-2837ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
 
-### Day 3: [Lobby](https://adventofcode.com/2025/day/3)
+### Day 3: [Lobby](https://adventofcode.com/2025/day/3) ![runtime](https://img.shields.io/badge/time-18ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
+
+### Day 4: [Printing Department](https://adventofcode.com/2025/day/4) ![runtime](https://img.shields.io/badge/time-120ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
