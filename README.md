@@ -20,3 +20,8 @@
 ### Day 4: [Printing Department](https://adventofcode.com/2025/day/4) ![runtime](https://img.shields.io/badge/time-120ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
+
+### Day 5: [Cafeteria](https://adventofcode.com/2025/day/5) ![runtime](https://img.shields.io/badge/time-53ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
+
