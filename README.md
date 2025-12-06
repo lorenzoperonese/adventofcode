@@ -25,3 +25,7 @@
 - [x] ⭐️
 - [x] ⭐️⭐️
 
+### Day 6: [Trash Compactor](https://adventofcode.com/2025/day/6) ![runtime](https://img.shields.io/badge/time-106ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
+
