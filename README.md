@@ -29,3 +29,6 @@
 - [x] ⭐️
 - [x] ⭐️⭐️
 
+### Day 7: [Laboratories](https://adventofcode.com/2025/day/7) ![runtime](https://img.shields.io/badge/time-34ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
