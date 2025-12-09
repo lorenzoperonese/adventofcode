@@ -36,3 +36,7 @@
 ### Day 8: [Playground](https://adventofcode.com/2025/day/8) ![runtime](https://img.shields.io/badge/time-1073ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
+
+### Day 9: [Movie Theater](https://adventofcode.com/2025/day/9) ![runtime](https://img.shields.io/badge/time-1910ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
