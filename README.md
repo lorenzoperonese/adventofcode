@@ -40,3 +40,8 @@
 ### Day 9: [Movie Theater](https://adventofcode.com/2025/day/9) ![runtime](https://img.shields.io/badge/time-1910ms-blue)
 - [x] ⭐️
 - [x] ⭐️⭐️
+
+### Day 10: [Factory](https://adventofcode.com/2025/day/10) ![runtime](https://img.shields.io/badge/time-293ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
+
