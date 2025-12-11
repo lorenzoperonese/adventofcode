@@ -45,3 +45,7 @@
 - [x] ⭐️
 - [x] ⭐️⭐️
 
+### Day 11: [Reactor](https://adventofcode.com/2025/day/11) ![runtime](https://img.shields.io/badge/time-26ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
+
