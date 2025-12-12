@@ -49,3 +49,6 @@
 - [x] ⭐️
 - [x] ⭐️⭐️
 
+### Day 12: [Christmas Tree Farm](https://adventofcode.com/2025/day/12) ![runtime](https://img.shields.io/badge/time-21ms-blue)
+- [x] ⭐️
+- [x] ⭐️⭐️
